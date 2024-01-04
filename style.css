@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-	.todo-info { text-align: center;
-}
+	.todo-info { 
+		text-align: center;
+	}
 }
 .main {
   display: block;
@@ -94,7 +95,6 @@
 	overflow: hidden;
 	padding: 20px 0;
 	border-bottom: 1px solid #eee;
-
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
